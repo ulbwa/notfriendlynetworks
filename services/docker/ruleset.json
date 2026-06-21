@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "hub.docker.com",
+        "desktop.docker.com",
+        "sessions-bugsnag.docker.com",
+        "api.dso.docker.com",
+        "production.cloudflare.docker.com",
+        "docker.io",
+        "registry-1.docker.io",
+        "auth.docker.io"
+      ],
+      "domain_suffix": [
+        "docker.elastic.co"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ozon.ru",
+        "ozonusercontent.com"
+      ]
+    },
+    {
+      "package_name": [
+        "ru.ozon.app.android"
+      ]
+    }
+  ]
+}

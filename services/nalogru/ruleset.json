@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nalog.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "ru.fns.lkfl"
+      ]
+    }
+  ]
+}

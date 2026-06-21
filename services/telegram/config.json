@@ -1,0 +1,9 @@
+{
+  "availability": {
+    "ru": {
+      "blocked": true,
+      "accredited_hosting": true
+    }
+  },
+  "probe": "https://telegram.org/"
+}

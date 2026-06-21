@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "grok.com",
+        "x.ai",
+        "featureassets.org"
+      ]
+    },
+    {
+      "package_name": [
+        "ai.x.grok"
+      ]
+    }
+  ]
+}

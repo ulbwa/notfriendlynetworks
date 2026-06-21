@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "exafunction.github.io",
+        "ingest.us.sentry.io",
+        "logr-ingest.com",
+        "windsurf.com"
+      ]
+    }
+  ]
+}

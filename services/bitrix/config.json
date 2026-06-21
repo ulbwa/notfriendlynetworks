@@ -1,0 +1,8 @@
+{
+  "availability": {
+    "ua": {
+      "blocked": true
+    }
+  },
+  "probe": "https://www.bitrix.info/robots.txt"
+}

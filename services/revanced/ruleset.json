@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "revanced.app"
+      ]
+    },
+    {
+      "package_name": [
+        "app.revanced.manager.flutter"
+      ]
+    }
+  ]
+}

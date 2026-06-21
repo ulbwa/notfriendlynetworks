@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "chat.openai.com",
+        "auth0.openai.com"
+      ],
+      "domain_suffix": [
+        "chatgpt.com",
+        "auth.openai.com",
+        "ns1.cloudflare.net",
+        "cdn.oaistatic.com",
+        "openai.com",
+        "files.oaiusercontent.com",
+        "api.openai.com",
+        "ab.chatgpt.com",
+        "arena.openai.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.openai.chatgpt"
+      ]
+    }
+  ]
+}

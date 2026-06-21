@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bunny.net",
+        "bunnyinfra.net",
+        "b-cdn.net"
+      ]
+    }
+  ]
+}

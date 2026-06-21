@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hetzner.com"
+      ]
+    },
+    {
+      "package_name": [
+        "de.hetzner.robot_mobile"
+      ]
+    }
+  ]
+}

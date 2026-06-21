@@ -1,0 +1,9 @@
+{
+  "availability": {
+    "ru": {
+      "blocked": true,
+      "accredited_hosting": true
+    }
+  },
+  "probe": "https://www.archivebate.com/robots.txt"
+}

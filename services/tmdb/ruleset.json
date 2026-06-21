@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "tmdb.org",
+        "api.tmdb.org",
+        "themoviedb.org",
+        "api.themoviedb.org",
+        "www.themoviedb.org",
+        "media.themoviedb.org",
+        "tmdb-web-image-prod.b-cdn.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "18.165.140.10/32",
+        "108.138.26.31/32",
+        "169.150.221.147/32"
+      ]
+    }
+  ]
+}

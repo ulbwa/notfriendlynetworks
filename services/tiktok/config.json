@@ -1,0 +1,8 @@
+{
+  "availability": {
+    "ru": {
+      "geo_restricted": true
+    }
+  },
+  "probe": "https://www.tiktok.com/robots.txt"
+}

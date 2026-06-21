@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "copilot-proxy.githubusercontent.com",
+        "copilot-telemetry.githubusercontent.com"
+      ],
+      "domain_suffix": [
+        "github.com",
+        "githubusercontent.com",
+        "githubassets.com",
+        "githubcopilot.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.github.android"
+      ]
+    }
+  ]
+}

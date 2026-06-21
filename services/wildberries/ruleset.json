@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "wildberries.ru",
+        "wb.ru",
+        "wbbasket.ru",
+        "wbstatic.net",
+        "paywb.com",
+        "paywb.ru",
+        "wb-bank.ru",
+        "wbwh.ru",
+        "wbwh.tech",
+        "wbheld.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "com.wildberries.ru"
+      ]
+    }
+  ]
+}

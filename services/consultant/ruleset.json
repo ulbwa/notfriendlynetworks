@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "consultant.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "com.consultantplus.app"
+      ]
+    }
+  ]
+}

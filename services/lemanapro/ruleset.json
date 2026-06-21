@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "leroymerlin.ru",
+        "lemanapro.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "ru.leroymerlin.mobile"
+      ]
+    }
+  ]
+}

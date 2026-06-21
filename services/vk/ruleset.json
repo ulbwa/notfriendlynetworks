@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "vk.com",
+        "vk.ru",
+        "vkontakte.ru",
+        "vkvideo.ru",
+        "userapi.com",
+        "vk-cdn.net",
+        "vk-cdn.com",
+        "vk-cdn.me",
+        "cdn-vk.ru",
+        "vkcache.com",
+        "vkusercdn.ru",
+        "vkuser.net",
+        "vkuservideo.ru",
+        "vkuservideo.com",
+        "vkuservideo.net",
+        "vkuserlive.net",
+        "vkuseraudio.ru",
+        "vkuseraudio.com",
+        "vkuseraudio.net",
+        "vkuserphoto.ru",
+        "vkuse.ru",
+        "mvk.com",
+        "vk.me",
+        "vk.cc",
+        "vk.link",
+        "vk.company",
+        "vk.team",
+        "vk.design",
+        "vk-apps.com",
+        "vk-apps.ru",
+        "vk-portal.net",
+        "vkplay.ru",
+        "vkplay.live",
+        "vkmessenger.com",
+        "vkmessenger.app",
+        "vklive.app",
+        "vkgo.app",
+        "mradx.net",
+        "max.ru",
+        "oneme.ru",
+        "okcdn.ru",
+        "ok.ru",
+        "odnoklassniki.ru",
+        "mycdn.me",
+        "mail.ru",
+        "imgsmail.ru",
+        "my.com",
+        "list.ru",
+        "bk.ru",
+        "inbox.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "com.vkontakte.android",
+        "com.vk.tv",
+        "ru.mail.moosic",
+        "ru.ok.android",
+        "ru.mail.mailapp",
+        "ru.oneme.app"
+      ]
+    }
+  ]
+}

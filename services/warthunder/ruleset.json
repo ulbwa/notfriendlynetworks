@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn.battleye.com",
+        "warthunder.com",
+        "gaijin.net",
+        "gaijinent.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.gaijingames.wtm"
+      ]
+    }
+  ]
+}

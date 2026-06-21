@@ -1,0 +1,15 @@
+{
+  "availability": {
+    "default": {
+      "geo_restricted": true
+    },
+    "ru": {
+      "geo_restricted": false
+    },
+    "ua": {
+      "blocked": true,
+      "geo_restricted": false
+    }
+  },
+  "probe": "https://magnit.ru/"
+}

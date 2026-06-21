@@ -1,0 +1,11 @@
+{
+  "availability": {
+    "ru": {
+      "blocked": true,
+      "accredited_hosting": true
+    },
+    "ua": {
+      "blocked": true
+    }
+  }
+}

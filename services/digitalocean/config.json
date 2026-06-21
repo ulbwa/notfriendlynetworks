@@ -1,0 +1,9 @@
+{
+  "availability": {
+    "ru": {
+      "blocked": true,
+      "accredited_hosting": true
+    }
+  },
+  "probe": "https://www.digitalocean.com/robots.txt"
+}

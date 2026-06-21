@@ -1,0 +1,10 @@
+{
+  "availability": {
+    "ru": {
+      "geo_restricted": true
+    },
+    "by": {
+      "geo_restricted": true
+    }
+  }
+}

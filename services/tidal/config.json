@@ -1,0 +1,17 @@
+{
+  "availability": {
+    "ru": {
+      "geo_restricted": true
+    },
+    "ua": {
+      "geo_restricted": true
+    },
+    "kz": {
+      "geo_restricted": true
+    },
+    "by": {
+      "geo_restricted": true
+    }
+  },
+  "probe": "https://tidal.com/favicon.ico"
+}

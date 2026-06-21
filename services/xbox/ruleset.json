@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "user.auth.xboxlive.com",
+        "xsts.auth.xboxlive.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.microsoft.xboxone.smartglass",
+        "com.gamepass"
+      ]
+    }
+  ]
+}

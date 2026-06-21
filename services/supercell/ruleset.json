@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "game.brawlstarsgame.com",
+        "game-assets.clashofclans.com",
+        "gamea.clashofclans.com",
+        "clashofclans.inbox.supercell.com",
+        "supercell.com",
+        "game.clashroyaleapp.com",
+        "brawlstars.com",
+        "game.squadbustersgame.com",
+        "squadbusters.inbox.supercell.com"
+      ],
+      "domain_suffix": [
+        "ingest.sentry.io"
+      ]
+    },
+    {
+      "package_name": [
+        "com.supercell.brawlstars",
+        "com.supercell.clashofclans",
+        "com.supercell.clashroyale",
+        "com.supercell.boombeach",
+        "com.supercell.hayday",
+        "com.supercell.squad"
+      ]
+    }
+  ]
+}

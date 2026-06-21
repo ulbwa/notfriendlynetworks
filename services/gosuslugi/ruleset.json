@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gosuslugi.ru",
+        "gu-st.ru",
+        "xn--90aijkdmaud0d.xn--p1ai"
+      ]
+    },
+    {
+      "package_name": [
+        "ru.rostel"
+      ]
+    }
+  ]
+}

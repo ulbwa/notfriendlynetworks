@@ -1,0 +1,12 @@
+{
+  "availability": {
+    "ru": {
+      "blocked": true,
+      "accredited_hosting": true
+    },
+    "ua": {
+      "blocked": true
+    }
+  },
+  "probe": "https://rutracker.org/favicon.ico"
+}

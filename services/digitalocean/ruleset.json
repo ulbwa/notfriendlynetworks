@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "digitalocean.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.digitalocean.ocean"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "nvidia.com"
+      ],
+      "domain_suffix": [
+        "download.nvidia.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.nvidia.geforcenow"
+      ]
+    }
+  ]
+}

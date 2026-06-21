@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "connectivitycheck.gstatic.com",
+        "www.google.com",
+        "yt3.ggpht.com",
+        "play.googleapis.com",
+        "android.clients.google.com",
+        "lh3.googleusercontent.com",
+        "withyoutube.com",
+        "youtube.googleapis.com",
+        "youtubeeducation.com",
+        "youtubefanfest.com",
+        "youtubegaming.com",
+        "youtubego.com",
+        "youtubemobilesupport.com",
+        "video.google.com",
+        "clients1.google.com",
+        "clients2.google.com",
+        "clients3.google.com",
+        "clients4.google.com",
+        "googleadservices.com",
+        "googlesyndication.com",
+        "doubleclick.net"
+      ],
+      "domain_suffix": [
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com",
+        "s.youtube.com",
+        "googlevideo.com",
+        "i.ytimg.com",
+        "youtu.be",
+        "googleapis.com",
+        "gvt1.com",
+        "gstatic.com",
+        "google.com",
+        "play.google.com",
+        "ytimg.com",
+        "yting.com",
+        "ggpht.com",
+        "youtubekids.com",
+        "yt.be",
+        "youtube-nocookie.com",
+        "wide-youtube.l.google.com",
+        "ytimg.l.google.com",
+        "youtubei.googleapis.com",
+        "youtubeembeddedplayer.googleapis.com",
+        "youtube-ui.l.google.com",
+        "yt-video-upload.l.google.com",
+        "jnn-pa.googleapis.com",
+        "returnyoutubedislikeapi.com",
+        "yt3.googleusercontent.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.google.android.youtube",
+        "com.google.android.apps.youtube.music",
+        "com.google.android.apps.youtube.kids",
+        "com.google.android.apps.youtube.creator"
+      ]
+    }
+  ]
+}

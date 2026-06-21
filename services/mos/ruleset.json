@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mos.ru",
+        "mosreg.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "ru.mos.app"
+      ]
+    }
+  ]
+}

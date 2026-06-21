@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "rutracker.org",
+        "rutracker.net",
+        "rutracker.nl",
+        "rutracker.cc",
+        "t-ru.org"
+      ]
+    }
+  ]
+}

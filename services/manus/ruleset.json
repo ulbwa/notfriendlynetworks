@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "manus.im",
+        "files.manuscdn.com",
+        "plausible.io"
+      ]
+    },
+    {
+      "package_name": [
+        "tech.butterfly.app"
+      ]
+    }
+  ]
+}

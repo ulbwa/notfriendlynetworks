@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "deepl.com",
+        "clearance.deepl.com",
+        "s.deepl.com",
+        "appdownload.deepl.com",
+        "community-auth.deepl.com",
+        "dict-audio.deepl.com",
+        "examplecustomer.deepl.com",
+        "experimentation.deepl.com",
+        "home.deepl.com",
+        "internal.deepl.com",
+        "static.deepl.com",
+        "login-wall.deepl.com"
+      ],
+      "domain_suffix": [
+        ".deepl.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.deepl.mobiletranslator"
+      ]
+    }
+  ]
+}

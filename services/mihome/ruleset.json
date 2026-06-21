@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "mi.com",
+        "xiaomi.com",
+        "xiaomi.net",
+        "mi-img.com",
+        "mi-dun.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.xiaomi.smarthome"
+      ]
+    }
+  ]
+}

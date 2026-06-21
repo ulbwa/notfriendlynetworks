@@ -1,0 +1,11 @@
+{
+  "availability": {
+    "ru": {
+      "geo_restricted": true
+    },
+    "by": {
+      "geo_restricted": true
+    }
+  },
+  "probe": "https://nvidia.com/favicon.ico"
+}

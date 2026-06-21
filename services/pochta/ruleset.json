@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "pochta.ru",
+        "russianpost.ru"
+      ]
+    },
+    {
+      "package_name": [
+        "com.octopod.russianpost.client.android"
+      ]
+    }
+  ]
+}

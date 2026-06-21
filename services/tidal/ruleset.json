@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api.tidal.com",
+        "images.tidal.com",
+        "listen.tidal.com",
+        "resources.tidal.com",
+        "tidal.com",
+        "tidal.map.fastly.com"
+      ]
+    },
+    {
+      "package_name": [
+        "com.aspiro.tidal"
+      ]
+    }
+  ]
+}
