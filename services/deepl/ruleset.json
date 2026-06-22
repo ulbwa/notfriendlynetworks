@@ -19,11 +19,6 @@
       "domain_suffix": [
         ".deepl.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.deepl.mobiletranslator"
-      ]
     }
   ]
 }

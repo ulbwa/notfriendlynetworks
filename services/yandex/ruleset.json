@@ -88,16 +88,6 @@
         "dzen.ru",
         "toloka.ai"
       ]
-    },
-    {
-      "package_name": [
-        "ru.yandex.searchplugin",
-        "com.yandex.browser",
-        "ru.kinopoisk",
-        "ru.yandex.music",
-        "ru.yandex.yandexmaps",
-        "ru.yandex.taxi"
-      ]
     }
   ]
 }

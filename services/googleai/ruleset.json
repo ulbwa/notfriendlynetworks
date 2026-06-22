@@ -2,17 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "alkalicore-pa.clients6.google.com",
-        "alkalimakersuite-pa.clients6.google.com",
-        "signaler-pa.clients6.google.com",
-        "waa-pa.clients6.google.com",
-        "google-analytics.com",
-        "googletagmanager.com",
-        "alkalichat-pa.clients6.google.com",
-        "jnn-pa.googleapis.com",
-        "lamssettings-pa.googleapis.com"
-      ],
       "domain_suffix": [
         "deepmind.com",
         "deepmind.google",
@@ -42,11 +31,6 @@
         "antigravity-unleash.goog",
         "firebaseinstallations.googleapis.com",
         "speechs3proto2-pa.googleapis.com"
-      ]
-    },
-    {
-      "package_name": [
-        "com.google.android.apps.bard"
       ]
     }
   ]

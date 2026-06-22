@@ -5,12 +5,6 @@
       "domain_suffix": [
         "emex.ru"
       ]
-    },
-    {
-      "package_name": [
-        "kz.emex.mobile",
-        "emex.androidscanner"
-      ]
     }
   ]
 }

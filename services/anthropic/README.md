@@ -1,10 +1,10 @@
 # Anthropic Claude
 
-claude.ai, API Anthropic и связанные зависимости (Intercom, Segment, Sentry, Fathom, Plausible, Webflow).
+claude.ai, claude.com, API Anthropic и сайт Anthropic.
 
 - **Тип:** сервис
-- **Доменов:** 20
-- **Подсетей:** 1
+- **Доменов:** 6
+- **Подсетей:** 0
 - **Андроид-пакеты:** 1
 - **Доступность:** 🇷🇺 🌐 · 🇺🇦 ✅ · 🇰🇿 ✅ · 🇧🇾 🌐 · 🌍 ✅
 

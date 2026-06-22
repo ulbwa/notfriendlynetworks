@@ -54,16 +54,6 @@
         "bk.ru",
         "inbox.ru"
       ]
-    },
-    {
-      "package_name": [
-        "com.vkontakte.android",
-        "com.vk.tv",
-        "ru.mail.moosic",
-        "ru.ok.android",
-        "ru.mail.mailapp",
-        "ru.oneme.app"
-      ]
     }
   ]
 }

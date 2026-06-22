@@ -2,21 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "bytecdn.cn",
-        "byted.org",
-        "ibyteimg.com",
-        "musemuse.cn",
-        "musica.ly",
-        "p16-tiktokcdn-com.akamaized.net",
-        "tiktok.com.c.footprint.net",
-        "tiktok.net",
-        "tiktokcdn.com.c.worldfcdn.com",
-        "tiktokcdn.com.wsdvs.com",
-        "tiktokcdn.liveplay.myqcloud.com",
-        "v.tiktok.com",
-        "v.tiktok.ne"
-      ],
       "domain_suffix": [
         "byteoversea.com",
         "ibytedtos.com",
@@ -34,12 +19,6 @@
         "tiktokw.us",
         "ttwstatic.com",
         "tiktokv.eu"
-      ]
-    },
-    {
-      "package_name": [
-        "com.zhiliaoapp.musically",
-        "com.ss.android.ugc.trill"
       ]
     }
   ]

@@ -15,11 +15,6 @@
         "twitchsvc-staging.tech",
         "twitchsvc.net"
       ]
-    },
-    {
-      "package_name": [
-        "tv.twitch.android.app"
-      ]
     }
   ]
 }

@@ -19,11 +19,6 @@
         "2001:4860:4864:5::/64",
         "2001:4860:4864:6::/64"
       ]
-    },
-    {
-      "package_name": [
-        "com.google.android.apps.meetings"
-      ]
     }
   ]
 }

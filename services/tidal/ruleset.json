@@ -10,11 +10,6 @@
         "tidal.com",
         "tidal.map.fastly.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.aspiro.tidal"
-      ]
     }
   ]
 }

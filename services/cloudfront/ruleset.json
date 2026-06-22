@@ -5,11 +5,6 @@
       "domain_suffix": [
         "cloudfront.net"
       ]
-    },
-    {
-      "package_name": [
-        "com.amazon.aws.console.mobile"
-      ]
     }
   ]
 }

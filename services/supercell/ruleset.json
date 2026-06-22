@@ -16,16 +16,6 @@
       "domain_suffix": [
         "ingest.sentry.io"
       ]
-    },
-    {
-      "package_name": [
-        "com.supercell.brawlstars",
-        "com.supercell.clashofclans",
-        "com.supercell.clashroyale",
-        "com.supercell.boombeach",
-        "com.supercell.hayday",
-        "com.supercell.squad"
-      ]
     }
   ]
 }

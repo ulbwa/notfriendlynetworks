@@ -47,11 +47,6 @@
         "push.prod.netflix.com",
         "web.prod.cloud.netflix.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.netflix.mediaclient"
-      ]
     }
   ]
 }

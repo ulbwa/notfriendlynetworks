@@ -8,11 +8,6 @@
       "domain_suffix": [
         "download.nvidia.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.nvidia.geforcenow"
-      ]
     }
   ]
 }

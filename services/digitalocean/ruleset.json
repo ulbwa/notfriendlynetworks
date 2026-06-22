@@ -5,11 +5,6 @@
       "domain_suffix": [
         "digitalocean.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.digitalocean.ocean"
-      ]
     }
   ]
 }

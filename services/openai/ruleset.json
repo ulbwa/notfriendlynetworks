@@ -17,11 +17,6 @@
         "ab.chatgpt.com",
         "arena.openai.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.openai.chatgpt"
-      ]
     }
   ]
 }

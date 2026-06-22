@@ -16,12 +16,6 @@
         "beacons.gvt2.com",
         "gvt1.com"
       ]
-    },
-    {
-      "package_name": [
-        "com.android.vending",
-        "com.google.android.play.games"
-      ]
     }
   ]
 }

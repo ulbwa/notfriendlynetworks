@@ -9,11 +9,6 @@
         "notion.site",
         "notion.so"
       ]
-    },
-    {
-      "package_name": [
-        "notion.id"
-      ]
     }
   ]
 }

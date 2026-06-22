@@ -6,11 +6,6 @@
         "pochta.ru",
         "russianpost.ru"
       ]
-    },
-    {
-      "package_name": [
-        "com.octopod.russianpost.client.android"
-      ]
     }
   ]
 }

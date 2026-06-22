@@ -5,11 +5,6 @@
       "domain_suffix": [
         "bitrix.info"
       ]
-    },
-    {
-      "package_name": [
-        "com.bitrix24.android"
-      ]
     }
   ]
 }

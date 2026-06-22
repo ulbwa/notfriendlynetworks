@@ -24,11 +24,6 @@
         "spotify.map.fastly.net",
         "spotify.map.fastlylb.net"
       ]
-    },
-    {
-      "package_name": [
-        "com.spotify.music"
-      ]
     }
   ]
 }
